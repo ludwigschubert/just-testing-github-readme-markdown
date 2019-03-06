@@ -32,3 +32,9 @@ and a figure element?
   <img width="104px" src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png">
   <figcaption>Some figcaotion</figcaption>
 </figure>
+
+
+<div>
+   <img width="104px" src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png">
+  <span>Attempt to get an inline block.</span>
+</div>
