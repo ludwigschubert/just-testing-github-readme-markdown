@@ -37,5 +37,5 @@ maybe we can abuse `display: initial` to get back inline-block behavior: edit tu
 
 <div>
   <img width="104px" src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png">
-  <span>Attempt to get an inline block.</span>
+  <p>Attempt to get an inline block.</p>
 </div>
