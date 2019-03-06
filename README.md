@@ -33,8 +33,10 @@ and a figure element?
   <figcaption>Some figcaotion</figcaption>
 </figure>
 
+maybe we can abuse `display: initial` to get back inline-block behavior: edit turns out they never turned it off \o/
 
 <div>
-   <img width="104px" src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png">
-  <span>Attempt to get an inline block.</span>
+  <img width="104px" src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png">
+  <h4>Attempt to get an inline block.</h4>
+  <p>Attempt to describe the inline block!</p>
 </div>
