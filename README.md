@@ -35,7 +35,7 @@ and a figure element?
 
 maybe we can abuse `display: initial` to get back inline-block behavior: edit turns out they never turned it off \o/
 
-<a href="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png">
+<a href="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png" width="400px">
   <img width="104px" src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/test.png">
   <strong><span>Attempt to get an inline block.</span></strong>
   <span>Attempt to explain said block.</span>
